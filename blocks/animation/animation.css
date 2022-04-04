@@ -1,0 +1,17 @@
+@keyframes header__text {
+  from {
+    line-height: 3px;
+  }
+  to {
+    line-height: 43px;
+  }
+}
+
+@keyframes header__height {
+  from {
+    height: 1200px;
+  }
+  to {
+    height: 625px;
+  }
+}
